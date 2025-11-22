@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+.pnpm-store/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+coverage/
+
+# Temporary files
+*.tmp
